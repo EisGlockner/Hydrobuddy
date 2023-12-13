@@ -1,5 +1,7 @@
 I should revisit this Project again, clean the code up, make it as bugfree as possible and fix some Hardwarestuff.
 
+Used a ESP32 with a Load Cell, HX711 Load Amp and a LED strip
+
 Pins:
     HX711:
         GPIO_NUM_18: Clock
