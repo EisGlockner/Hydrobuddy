@@ -1,3 +1,5 @@
+I should revisit this Project again, clean the code up, make it as bugfree as possible and fix some Hardwarestuff.
+
 Pins:
     HX711:
         GPIO_NUM_18: Clock
