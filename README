@@ -1,0 +1,10 @@
+Pins:
+    HX711:
+        GPIO_NUM_18: Clock
+        GPIO_NUM_19: Data
+    
+    LED Strip:
+        GPIO_NUM_15: Data
+    
+    Onboard LED:
+        GPIO_NUM_2 - this doesn't exist on the new boards
